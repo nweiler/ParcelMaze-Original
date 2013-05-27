@@ -1,0 +1,91 @@
+outside
+resources/castle.jpg
+north stable
+ outside of the castle
+
+stable
+resources/stable.jpg
+west warroom  south outside
+ in the stable, amongst the haystacks
+
+warroom
+resources/warRoom.jpg
+east stable  down armory  west greathall
+ in the war room
+
+greathall
+resources/hall.jpg
+east warroom  down tunnel  west kitchen  up balcony  north court
+ in the great hall
+
+tunnel
+resources/tunnel.jpg
+south saferoom  east armory  west dungeon  up greathall
+ in the underground tunnel
+
+armory
+armory.jpg
+up warroom  west tunnel
+ in the armory
+
+saferoom
+resources/safe.jpg
+north tunnel
+ in the safe room
+
+dungeon
+resources/dungeon.jpg
+east tunnel  up kitchen
+ in the dungeon
+
+kitchen
+resources/kitchen.jpg
+down dungeon  east greathall  west servants
+ in the castle kitchen
+
+servants
+resources/servants.jpg
+east kitchen
+ in the servants quarters - dead end
+
+wstairwell
+resources/wStairwell.jpg
+east balcony  up wtower
+ in the west stairwell
+
+balcony
+resources/balcony.jpg
+west wstairwell  east estairwell  down greathall
+ in the north bacony
+
+estairwell
+resources/eStairwell.jpg
+west balcony  east watchout  up etower  south bedroom
+ in the east stairwell
+
+wtower
+resources/wTower.jpg
+down wstairwell
+ in the west tower
+
+etower
+resources/etower.jpg
+down estairwell
+ in the east tower
+
+bedroom
+resources/master.jpg
+north estairwell
+ in the master's bedroom 
+
+watchout
+resources/watchout.jpg
+west estairwell
+ in the secret watch out tower
+
+court
+resources/court.jpg
+south greathall
+ in the royal court
+ 
+ 
