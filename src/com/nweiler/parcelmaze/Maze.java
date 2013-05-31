@@ -1,4 +1,5 @@
 package com.nweiler.parcelmaze;
+
 import java.util.HashMap;
 import java.util.Scanner;
 
