@@ -1,4 +1,4 @@
-package com.nweiler.parcelmaze;
+package com.nweiler.ParcelMaze;
 
 
 //Code for rooms in the Maze. Borrows code from Zuul 

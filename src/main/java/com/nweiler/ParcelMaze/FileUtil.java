@@ -1,4 +1,4 @@
-package com.nweiler.parcelmaze;
+package com.nweiler.ParcelMaze;
 
 
 import java.util.Scanner;

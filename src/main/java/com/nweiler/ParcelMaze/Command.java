@@ -1,5 +1,4 @@
-package com.nweiler.parcelmaze;
-
+package com.nweiler.ParcelMaze;
 
 public class Command
 {
