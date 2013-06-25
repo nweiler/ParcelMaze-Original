@@ -86,7 +86,7 @@ public class Room
          System.out.println("File not found: " + fileName);
          return null;
      }
-     
+     	
      HashMap<String, Room> rooms = new HashMap<String, Room>();
      
      HashMap<String, String> exitStrings = new HashMap<String, String>();
@@ -190,7 +190,7 @@ public class Room
  {
      StdDraw.picture(.5, .5, imageFilePath, 1.1, 1);
      if(hasAMonster!=false){
-         StdDraw.picture(.5, .5, "resources/monster.png", 1.05, .9);
+         StdDraw.picture(.5, .5, "monster.png", 1.05, .9);
      }
  }
  

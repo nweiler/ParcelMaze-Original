@@ -37,7 +37,7 @@ public class Maze
      */
     public Maze() 
     {
-        rooms = Room.createRooms("com/nweiler/parcelmaze/resources/roomData.txt", myUser, maze);
+        rooms = Room.createRooms("roomData.txt", myUser, maze);
         currentRoom = rooms.get("outside");
     }
 
@@ -64,7 +64,7 @@ public class Maze
                 finished = processCommand(command);
             }
             
-            if(currentRoom.getImageFilePath().equals("resources/castle.jpg"))
+            if(currentRoom.getImageFilePath().equals("castle.jpg"))
             {
                 finished = true;
             }
@@ -75,7 +75,7 @@ public class Maze
                     System.out.println("You have defeated all of the monters but you must find your way back to the entrance!");
                     command = Parser.getCommand();
                     finished = processCommand(command);
-                    if(currentRoom.getImageFilePath().equals("resources/castle.jpg")){
+                    if(currentRoom.getImageFilePath().equals("castle.jpg")){
                         finished = true;
                     }
                 }

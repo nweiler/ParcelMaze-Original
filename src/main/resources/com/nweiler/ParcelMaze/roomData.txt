@@ -1,25 +1,25 @@
 outside
-resources/castle.jpg
+castle.jpg
 north stable
  outside of the castle
 
 stable
-resources/stable.jpg
+bugsstable.jpg
 west warroom  south outside
  in the stable, amongst the haystacks
 
 warroom
-resources/warRoom.jpg
+bugswarRoom.jpg
 east stable  down armory  west greathall
  in the war room
 
 greathall
-resources/hall.jpg
+bugshall.jpg
 east warroom  down tunnel  west kitchen  up balcony  north court
  in the great hall
 
 tunnel
-resources/tunnel.jpg
+bugstunnel.jpg
 south saferoom  east armory  west dungeon  up greathall
  in the underground tunnel
 
@@ -29,62 +29,62 @@ up warroom  west tunnel
  in the armory
 
 saferoom
-resources/safe.jpg
+bugssafe.jpg
 north tunnel
  in the safe room
 
 dungeon
-resources/dungeon.jpg
+bugsdungeon.jpg
 east tunnel  up kitchen
  in the dungeon
 
 kitchen
-resources/kitchen.jpg
+bugskitchen.jpg
 down dungeon  east greathall  west servants
  in the castle kitchen
 
 servants
-resources/servants.jpg
+bugsservants.jpg
 east kitchen
  in the servants quarters - dead end
 
 wstairwell
-resources/wStairwell.jpg
+bugswStairwell.jpg
 east balcony  up wtower
  in the west stairwell
 
 balcony
-resources/balcony.jpg
+bugsbalcony.jpg
 west wstairwell  east estairwell  down greathall
  in the north bacony
 
 estairwell
-resources/eStairwell.jpg
+bugseStairwell.jpg
 west balcony  east watchout  up etower  south bedroom
  in the east stairwell
 
 wtower
-resources/wTower.jpg
+bugswTower.jpg
 down wstairwell
  in the west tower
 
 etower
-resources/etower.jpg
+bugsetower.jpg
 down estairwell
  in the east tower
 
 bedroom
-resources/master.jpg
+bugsmaster.jpg
 north estairwell
  in the master's bedroom 
 
 watchout
-resources/watchout.jpg
+bugswatchout.jpg
 west estairwell
  in the secret watch out tower
 
 court
-resources/court.jpg
+bugscourt.jpg
 south greathall
  in the royal court
  
