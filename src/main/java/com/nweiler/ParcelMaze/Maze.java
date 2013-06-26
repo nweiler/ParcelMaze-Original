@@ -1,5 +1,7 @@
 package com.nweiler.ParcelMaze;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 import java.util.HashMap;
 import java.util.Scanner;
 
@@ -28,6 +30,7 @@ public class Maze
      */
     public static void main(String[] args)
     {
+    	ApplicationContext context = new ClassPathXmlApplicationContext("maze.xml");
         Maze maze = new Maze();
         maze.play();
     }

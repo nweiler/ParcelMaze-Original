@@ -3,6 +3,7 @@ package com.nweiler.ParcelMaze;
 
 import java.util.Random;
 
+
 /**
  * The class representing the player. The user's attack strength is constant throughout the game.
  * Health starts at 100 and may decrease as the player encounters monsters.
