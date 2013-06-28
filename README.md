@@ -1,4 +1,1 @@
-This project is based on the "World of Zuul" application. 
-"World of Zuul" is a very simple, text based adventure game.  
-@author  Michael Kolling and David J. Barnes
-@version 2006.03.30
+This is a group project from my first year of graduate school. It is based on a textbook example by Michael Kolling and David J. Barnes which is in turn based on the "World of Zuul" application. I did not do the drawings. I wrote some of the code. I did all of the mavenization and refactoring.
