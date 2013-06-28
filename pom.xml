@@ -3,12 +3,12 @@
   <groupId>com.nweiler</groupId>
   <artifactId>ParcelMaze</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0</version>
   <scm>
   	<connection>scm:git:git@github.com:nweiler/ParcelMaze.git</connection>
   	<url>scm:git:git@github.com:nweiler/ParcelMaze.git</url>
   	<developerConnection />
-    <tag>ParcelMaze-1.0.0</tag>
+    <tag>ParcelMaze-1.0</tag>
   </scm>
    <build>
     <plugins>
