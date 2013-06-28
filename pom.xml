@@ -26,14 +26,4 @@
         </plugin>
     </plugins>
     </build>
-	<dependencies>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-context</artifactId>
-			<version>${org.springframework.version}</version>
-		</dependency>
-	</dependencies>
-	<properties>
-		<org.springframework.version>3.0.5.RELEASE</org.springframework.version>
-	</properties>
 </project>
