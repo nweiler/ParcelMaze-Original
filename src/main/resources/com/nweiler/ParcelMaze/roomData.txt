@@ -69,7 +69,7 @@ down wstairwell
  in the west tower
 
 etower
-etower.jpg
+eTower.jpg
 down estairwell
  in the east tower
 
